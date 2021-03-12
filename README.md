@@ -2,7 +2,7 @@
 
 ## JavaScript <img align="left" width="30px" src="https://raw.githubusercontent.com/gist/theCodingJohn/d76e49cb6071e2abaa47e1e5f98b1a74/raw/8d886f7c8987f1cb10862fa258d95a417fb0eed7/javascript-icon.svg" alt="javascript icon"/>
 
-- [Regular Expressions](https://regexone.com/)
+- [Regular Expression](https://regexone.com/)
 
 ## CLI <img align="left" width="30px" src="https://raw.githubusercontent.com/gist/theCodingJohn/cf9911c36e1493aab96a0ec7b2277103/raw/d3d1c4d9323bb7cc32fb7f6893a3711d48ae5233/terminal-icon.svg" alt="command line icon"/>
 
